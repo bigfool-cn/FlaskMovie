@@ -28,7 +28,7 @@ itsdangerous==0.24
 itypes==1.1.0
 Jinja2==2.10
 kombu==4.1.0
-lxml==3.7.3
+lxml==4.9.1
 Mako==1.0.7
 olefile==0.44
 Pillow==4.2.1
