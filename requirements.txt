@@ -29,7 +29,7 @@ itypes==1.1.0
 Jinja2==2.10
 kombu==4.1.0
 lxml==3.7.3
-Mako==1.0.7
+Mako==1.2.2
 olefile==0.44
 Pillow==4.2.1
 PyMySQL==0.7.11
